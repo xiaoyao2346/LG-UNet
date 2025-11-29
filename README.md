@@ -120,13 +120,14 @@ Upsampling to original scale
 ## 📗 Citation
 
 Please cite our work if you use the code or results:
-
+```
 @article{Xiao2025LGUNet,
   title   = {Nested U-Net with Discrepancy-Aware Learning for Enhanced Camouflaged Object Detection},
   author  = {Yao Xiao and Haotian Wu and Kun Zhu and Dexin Zhao},
   journal = {The Visual Computer},
   year    = {2025}
 }
+```
 
 ## 📬 Contact
 
