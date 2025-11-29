@@ -76,16 +76,20 @@ datasets/
 
 ## 🏋️ Training
 ```
-python train.py --config configs/cod.yaml
+python LG-UNetTrain_Val.py
 ```
 
 
 
-## 🔍 Testing & Evaluation
+## 🔍 Testing
 ```
-python test.py
+python LG-UNetTesting.py
 ```
 
+## 🔍 Evaluation
+```
+python MyEval.py
+```
 
 ## 🧠 Key Modules Explanation
 ### 1. LTDU — Local Texture Difference-aware U-Net
